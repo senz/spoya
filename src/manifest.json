@@ -21,5 +21,6 @@
         "32": "newtab_search32.png",
         "48": "newtab_search48.png",
         "128": "newtab_search128.png"
-      }
+      },
+      "update_url": "https://raw.githubusercontent.com/senz/spoya/main/update.xml"
   }
